@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 2.5D Retro RPG Arena",
+  "description": "An immersive 2.5D retro action RPG game built with Three.js. Fight waves of enemies, dodge boss fireballs, and collect healing potions to unlock the heroic ending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
